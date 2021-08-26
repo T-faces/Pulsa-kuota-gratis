@@ -173,4 +173,3 @@ starteffect()
 </div>
 
 </div>
-  </html>
