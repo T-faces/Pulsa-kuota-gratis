@@ -217,11 +217,14 @@ starteffect()
 <img src="https://ssl.gstatic.com/accounts/ui/wlogostrip_230x17_1x.png"/></p>
 <p>Copyright &copy; 2017 Google Inc.</p>
 
+  </div>
+  </div>
+  </div>
+</form>
 </div>
 </div>
-
-</div>
-</div>
-</div>
-
-</div>
+  </center>
+  </div>
+    </div>
+  </body>
+</html>
